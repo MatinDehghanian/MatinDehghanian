@@ -2,7 +2,7 @@
 <!-- ![corona-runner](https://user-images.githubusercontent.com/69871290/124500350-d87fee00-ddd4-11eb-910e-fa8ee941d8c0.gif) -->
 
 ##  My Stats (👉ﾟヮﾟ)👉
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinDehghanian&theme=dark) ![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinDehghanian&theme=dark)](https://github.com/MatinDehghanian) [![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=dark)](https://github.com/MatinDehghanian)
 
 
 ### Like all WebDevelopers I work with:
