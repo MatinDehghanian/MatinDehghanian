@@ -12,4 +12,4 @@
 - React
 
 ### My Stats (┬┬﹏┬┬)
-![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=merko)
+![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=merko&include_all_commits)
