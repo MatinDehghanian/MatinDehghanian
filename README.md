@@ -12,4 +12,8 @@
 - React
 
 ### My Stats (┬┬﹏┬┬)
-![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=merko&include_all_commits)
+![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=dark)
+
+
+### My top Languages (👉ﾟヮﾟ)👉
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinDehghanian&theme=dark)
