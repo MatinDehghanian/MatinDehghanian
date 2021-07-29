@@ -9,9 +9,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatinDehghanian&theme=dark)
 
 ### Like all WebDevelopers I work with:
-- HTML
-- CSS
-- Javascript
+- HTML (https://img.shields.io/badge/-HTML-%232c3e50?style=for-the-badge&logo=html5)](https://html.com)
+- CSS (https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css)
+- Javascript (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript
 ### And in FrontEnd I work :
 - Vue.js
 - Bootstrap
