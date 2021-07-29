@@ -11,4 +11,4 @@
 - JQuery
 - React
 
-![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true)
+![Matin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatinDehghanian&count_private=true&show_icons=true&theme=midnight-purple)
