@@ -18,4 +18,3 @@
 
 <!-- ## My Spotify Activity
 [![Matin's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=9nk67rmh2tj12j7atzzl95ofx&cover_image=true&theme=novatorem)](https://open.spotify.com/user/9nk67rmh2tj12j7atzzl95ofx?si=899cd845484445d4) -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatinDehghanian)](https://github.com/anuraghazra/github-readme-stats)
