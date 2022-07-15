@@ -16,7 +16,3 @@
 [![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 
-## My Spotify Activity
-[![Matin's Spotify](https://spotify-github-profile.vercel.app/api/view?uid=vl12fhdng0vi8dypdz55ugew1&cover_image=false&theme=default&bar_color_cover=true)](https://open.spotify.com/user/vl12fhdng0vi8dypdz55ugew1?si=a2fbff8e0eed432b)
-
-
